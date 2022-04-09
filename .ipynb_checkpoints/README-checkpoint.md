@@ -11,3 +11,6 @@
 > - `return` statement 
 > - Short Circuiting 
 > - Linear Search
+
+## [Binary Addition](01_introAlgo4/01_binary_add.ipynb)
+> - Adding Two *n-bit* Binary Arrays 
